@@ -5,6 +5,7 @@ let questions = [
         answer: "To reduce soil erosion",
         options: [
             "To store water for domestic use",
+            "To reduce soil erosion",
             "To generate electricity",
             "To prevent floods"
         ]
@@ -16,6 +17,7 @@ let questions = [
         options: [
             "To store water for irrigation",
             "To provide drinking water",
+            "To safely release excess water",
             "To control soil erosion"
         ]
     },
@@ -26,6 +28,7 @@ let questions = [
         options: [
             "Gallons per minute (GPM)",
             "Liters per hour (LPH)",
+            "Cubic meters per second (m³/s)",
             "Cubic feet per second (CFS)"
         ]
     },
@@ -35,6 +38,7 @@ let questions = [
         answer: "The vertical drop of water",
         options: [
             "The width of the dam",
+            "The vertical drop of water",
             "The flow rate of water",
             "The temperature of the water"
         ]
@@ -46,7 +50,8 @@ let questions = [
         options: [
             "Flood irrigation",
             "Furrow irrigation",
-            "Sprinkler irrigation"
+            "Sprinkler irrigation",
+            "Drip irrigation"
         ]
     },
     {
@@ -56,7 +61,8 @@ let questions = [
         options: [
             "To store drinking water",
             "To generate electricity",
-            "To filter rainwater"
+            "To filter rainwater",
+            "To treat and dispose of sewage"
         ]
     },
     {
@@ -65,6 +71,7 @@ let questions = [
         answer: "Coagulation and flocculation",
         options: [
             "Sedimentation",
+            "Coagulation and flocculation",
             "Filtration",
             "Aeration"
         ]
@@ -76,7 +83,8 @@ let questions = [
         options: [
             "3.0 to 4.5",
             "10.0 to 12.0",
-            "7.5 to 9.0"
+            "7.5 to 9.0",
+            "6.5 to 8.5"
         ]
     },
     {
@@ -85,6 +93,7 @@ let questions = [
         answer: "Cubic meters per second (m³/s)",
         options: [
             "Liters per minute (LPM)",
+            "Cubic meters per second (m³/s)",
             "Feet per second (FPS)",
             "Gallons per second (GPS)"
         ]
@@ -95,6 +104,7 @@ let questions = [
         answer: "Subsurface drainage",
         options: [
             "Stormwater drainage",
+            "Subsurface drainage",
             "Sanitary sewer system",
             "Combined sewer system"
         ]
