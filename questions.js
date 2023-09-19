@@ -1,112 +1,102 @@
 let questions = [
     {
         numb: 1,
-        question: "What is the unit of measurement for pressure in the International System of Units (SI)?",
-        answer: "Pascal (Pa)",
+        question: "What is the primary function of a check dam in irrigation?",
+        answer: "To reduce soil erosion",
         options: [
-            "Newton (N)",
-            "Pascal (Pa)",
-            "Kilogram (kg)",
-            "Meter (m)"
+            "To store water for domestic use",
+            "To generate electricity",
+            "To prevent floods"
         ]
     },
     {
         numb: 2,
-        question: "Which material is commonly used as a reinforcing agent in reinforced concrete?",
-        answer: "Steel",
+        question: "What is the primary purpose of a spillway in a dam?",
+        answer: "To safely release excess water",
         options: [
-            "Aluminum",
-            "Copper",
-            "Steel",
-            "Wood"
+            "To store water for irrigation",
+            "To provide drinking water",
+            "To control soil erosion"
         ]
     },
     {
         numb: 3,
-        question: "What is the term for the study of the behavior of soil under load?",
-        answer: "Geotechnical Engineering",
+        question: "What is the unit of measurement for flow rate in a water supply system?",
+        answer: "Cubic meters per second (m³/s)",
         options: [
-            "Structural Engineering",
-            "Geotechnical Engineering",
-            "Environmental Engineering",
-            "Transportation Engineering"
+            "Gallons per minute (GPM)",
+            "Liters per hour (LPH)",
+            "Cubic feet per second (CFS)"
         ]
     },
     {
         numb: 4,
-        question: "Which type of bridge is supported by two or more arches under the bridge deck?",
-        answer: "Arch Bridge",
+        question: "In hydropower generation, what does the term 'head' refer to?",
+        answer: "The vertical drop of water",
         options: [
-            "Beam Bridge",
-            "Suspension Bridge",
-            "Cable-stayed Bridge",
-            "Arch Bridge"
+            "The width of the dam",
+            "The flow rate of water",
+            "The temperature of the water"
         ]
     },
     {
         numb: 5,
-        question: "What is the process of compacting soil to improve its engineering properties?",
-        answer: "Soil Compaction",
+        question: "Which type of irrigation system is known for its high water efficiency and low water wastage?",
+        answer: "Drip irrigation",
         options: [
-            "Soil Erosion",
-            "Soil Stabilization",
-            "Soil Compaction",
-            "Soil Percolation"
+            "Flood irrigation",
+            "Furrow irrigation",
+            "Sprinkler irrigation"
         ]
     },
     {
         numb: 6,
-        question: "Which construction material is primarily composed of gypsum and used for interior wall finishing?",
-        answer: "Drywall (Plasterboard)",
+        question: "What is the primary purpose of a septic tank in a sanitary system?",
+        answer: "To treat and dispose of sewage",
         options: [
-            "Concrete",
-            "Brick",
-            "Drywall (Plasterboard)",
-            "Fiberglass"
+            "To store drinking water",
+            "To generate electricity",
+            "To filter rainwater"
         ]
     },
     {
         numb: 7,
-        question: "In civil engineering, what does the acronym HVAC stand for?",
-        answer: "Heating, Ventilation, and Air Conditioning",
+        question: "Which water treatment process involves the addition of chemicals to remove impurities?",
+        answer: "Coagulation and flocculation",
         options: [
-            "High Voltage Alternating Current",
-            "Hydraulic Valve and Control",
-            "Heating, Ventilation, and Air Conditioning",
-            "Highway and Vehicle Control"
+            "Sedimentation",
+            "Filtration",
+            "Aeration"
         ]
     },
     {
         numb: 8,
-        question: "What type of soil has the smallest particle size and retains water most effectively?",
-        answer: "Clay",
+        question: "What is the typical range of pH values for safe drinking water?",
+        answer: "6.5 to 8.5",
         options: [
-            "Silt",
-            "Gravel",
-            "Sand",
-            "Clay"
+            "3.0 to 4.5",
+            "10.0 to 12.0",
+            "7.5 to 9.0"
         ]
     },
     {
         numb: 9,
-        question: "Which construction method involves pouring concrete into molds or forms at the construction site?",
-        answer: "Cast-in-Place Concrete",
+        question: "How is the flow rate of a river typically measured for hydropower assessment?",
+        answer: "Cubic meters per second (m³/s)",
         options: [
-            "Precast Concrete",
-            "Cast-in-Place Concrete",
-            "Reinforced Concrete",
-            "Shotcrete"
+            "Liters per minute (LPM)",
+            "Feet per second (FPS)",
+            "Gallons per second (GPS)"
         ]
     },
     {
         numb: 10,
-        question: "What is the primary function of a retaining wall in civil engineering?",
-        answer: "To stabilize slopes and prevent erosion",
+        question: "Which type of drainage system is designed to remove excess water from agricultural fields?",
+        answer: "Subsurface drainage",
         options: [
-            "To provide structural support for buildings",
-            "To control temperature in buildings",
-            "To purify water",
-            "To stabilize slopes and prevent erosion"
+            "Stormwater drainage",
+            "Sanitary sewer system",
+            "Combined sewer system"
         ]
     }
 ];
